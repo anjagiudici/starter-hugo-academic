@@ -1,77 +1,47 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: Lecturer in Education
+avatar_filename: img_3038.jpeg
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Politics of Education
+  - History of Education
+  - Language Education Policy
+  - Far-right Ideology & Politics
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:anja.giudici@newcastle.ac.uk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/anjagiudici
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://scholar.google.ch/citations?user=_Ze4rVAAAAAJ&hl=it
+organizations:
+  - name: Newcastle University
+    url: https://www.ncl.ac.uk
+  - name: University of Oxford
+    url: https://www.ox.ac.uk
+education:
+  courses:
+    - course: PhD in Education Science
+      institution: University of Zurich
+      year: 2019
+    - course: MA in Education Science
+      institution: University of Zurich
+      year: 2012
+    - course: BA in Education Science
+      institution: University of Zurich
+      year: 1986
+superuser: true
 highlight_name: true
+title: Anja Giudici
+email: ""
 ---
+I am a Lecturer in Education at Newcastle University and a Postdoctoral Research Fellow at the University of Oxford.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research revolves around the politics and history of education. I am particularly interested in exploring how ideological, societal, linguistic, and cultural diversity shapes how education is conceived, governed, and practiced. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current work focuses on the educational ideas and politics of the far right as well as on the politics of post-war education reforms more generally. Education constitutes a key means to shape a society's future. I investigate how political parties and educational stakeholders view education, and how their interactions come to shape our education systems. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
