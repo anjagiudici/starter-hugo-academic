@@ -20,7 +20,7 @@ content:
   # appointment_url: https://calendly.com
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
-    street: School  of Education, Communication, and Language Sciences, Newcastle University
+    street: School  of Education, Communication and Language Sciences, Newcastle University
     city: Newcastle upon Tyne
     postcode: "NE1 7RU"
     country: United Kingdom
